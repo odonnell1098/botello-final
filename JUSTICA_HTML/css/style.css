@@ -13308,6 +13308,18 @@ img {
 }
 
 @media only screen and (max-width: 1000px) {
+    .we-allies-section {
+        padding-bottom: 15px;
+    }
+
+    .we-allies-footer {
+        padding-top: 15px;
+    }
+
+    .guide-image {
+        display: none;
+    }
+
     .logo-container {
         display: none;
     }
