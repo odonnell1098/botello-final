@@ -13309,9 +13309,7 @@ img {
 
 @media only screen and (max-width: 1000px) {
     .logo-container {
-        display: flex;
-        align-items: flex-end;
-        color: #120078;
+        display: none;
     }
 
     .botello-logo {
